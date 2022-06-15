@@ -15,6 +15,8 @@ public class Qu1 {
 		driver.findElement(By.linkText("Open a popup window")).click();
 		Thread.sleep(4000);
 		driver.quit();
+	
+	//you can't see me!
 
 
 	}	
